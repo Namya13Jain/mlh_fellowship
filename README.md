@@ -35,8 +35,8 @@ Aging Together is built using cutting-edge technologies to ensure a seamless use
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/14cfd052-59cd-4b07-8673-561ed745fec3" width = "200" height = "400" >
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/3a35849b-4a0e-45ae-b3b9-23fd306791e5" width = "200" height = "400" >
 
-
-
-
-
-
+# Future Scpe
+The scope of Aging Together is far more than what is developed till now.
+1. At the moment, the matching of companions is not fully automated. But as the application will scale, I have thought of integrating Machine Learning and Natural Language Processing(NLP) for the matching of companions.
+2. Sign Up has been omitted at the moment catering to the needs and technical knowledge of our target audience(old people). After conducting various technical sessions and boot camps, the signup feature would be added to trace the active users.
+3. In order to provide old people with morning and evening walks with their companions living far from their places, I have thought of creating AR effects in the application to give them a virtual view of garden walks with their companions.
