@@ -15,7 +15,8 @@ Aging Together is an all-in-one solution for seniors looking for companionship, 
 Aging Together is built using cutting-edge technologies to ensure a seamless user experience. The app is developed using Flutter, a popular open-source framework for building high-performance, cross-platform mobile applications. Flutter's rich set of widgets and development tools enabled the team to create a beautiful and responsive UI for the app.
 
 # Glimpses of the Application
-<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/3daf9189-ab1c-4faf-929f-842994ab734f" width = "200" height = "400" > <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/75b75c5d-844c-4e81-a03f-219213172820" width = "200" height = "400" > 
+<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/3daf9189-ab1c-4faf-929f-842994ab734f" width = "200" height = "400" > <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/3cbae854-d61b-45a9-8373-ccf1df1b6563" width = "200" height = "400" >
+<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/75b75c5d-844c-4e81-a03f-219213172820" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/bccaf24b-be5b-471b-90b9-3081d018211d" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/dd6be021-938a-41b0-8cdf-791b6b0cbff9" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/01da85d9-dd1f-431a-a2d1-d3fce01c4e37" width = "200" height = "400" > 
@@ -30,6 +31,11 @@ Aging Together is built using cutting-edge technologies to ensure a seamless use
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/406da02a-68e4-48b8-ad75-6da2843575f7" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/ba711af9-b251-47d5-93bf-e4d6d5220fc9" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/0f63ec00-14c9-4572-bff2-254d4df06526" width = "200" height = "400" > 
+<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/fcd1fa5f-2a0b-4d65-9bb5-4e1ebaf47d9c" width = "200" height = "400" > 
+<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/73155e94-3808-420d-8cd7-6641af03331c" width = "200" height = "400" >
+<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/14cfd052-59cd-4b07-8673-561ed745fec3" width = "200" height = "400" >
+<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/3a35849b-4a0e-45ae-b3b9-23fd306791e5" width = "200" height = "400" >
+
 
 
 
