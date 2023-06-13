@@ -170,25 +170,6 @@ class AboutUs extends StatelessWidget {
                 style: bodyText,
               ),
             ),
-            Divider(
-              color: Colors.grey,
-            ),
-            Padding(
-              padding: EdgeInsets.only(left: 12, right: 12, bottom: 7, top: 7),
-              child: Text(
-                  "Our app also gives medication reminders that allows immediate family members to record and schedule personalized voice messages. It sends a notification back to the family members when the medicine has been taken.",
-                  style: bodyText),
-            ),
-            Divider(
-              color: Colors.grey,
-            ),
-            Padding(
-              padding: EdgeInsets.only(left: 12, right: 12, bottom: 7, top: 7),
-              child: Text(
-                "We also offer the option for the immediate family members to track the location of their loved ones suffering from Alzeimers disease and dementia, through just their phones.",
-                style: bodyText,
-              ),
-            ),
             SizedBox(
               height: 50,
             ),
