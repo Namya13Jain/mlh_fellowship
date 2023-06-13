@@ -27,7 +27,6 @@ Aging Together is built using cutting-edge technologies to ensure a seamless use
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/d820211b-902d-4aab-b6d5-763893ff39ef" width = "200" height = "400" >
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/204d8eb3-0999-43f5-bfec-eebdcac55385" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/2abc59ba-e2d5-4d00-85e6-84fa281a8557" width = "200" height = "400" > 
-<img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/27746a74-5e84-4a79-9ccf-06eb72a15362" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/406da02a-68e4-48b8-ad75-6da2843575f7" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/ba711af9-b251-47d5-93bf-e4d6d5220fc9" width = "200" height = "400" > 
 <img src =  "https://github.com/Namya13Jain/mlh_fellowship/assets/100767035/0f63ec00-14c9-4572-bff2-254d4df06526" width = "200" height = "400" > 
